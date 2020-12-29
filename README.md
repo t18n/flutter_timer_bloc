@@ -7,4 +7,4 @@ A simple Flutter timer to learn about BLoC pattern following [this tutorial](htt
 - Run app `flutter run`
 
 ## Demo
-  ![Flutter simple timer](./screenshots/flutter_simple_timer.gif)
+<img src="./screenshots/flutter_simple_timer.gif" width="200" height="420" />
